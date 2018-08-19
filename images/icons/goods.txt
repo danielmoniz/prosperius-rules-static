@@ -1,0 +1,34 @@
+
+tree trees {evergreen}
+
+wood {logs}
+metal
+stone {boulder}
+
+bread
+fruit {apple}
+meat
+milk
+fish
+vegetable vegetables {carrot}
+quality_food {feast}
+
+grain wheat {wheat}
+flax {grain}
+wool
+tool tools {wrench}
+clothing clothes
+timber {wood}
+
+wine
+pastry pastries
+jewelry
+cream
+luxury_attire {cape}
+machine machines
+
+cow cows
+pig pigs
+sheep
+
+manure

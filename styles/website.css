@@ -1,0 +1,29 @@
+/* Styles here apply only to the website. */
+
+.icon.small {
+  width: 25px;
+}
+
+.icon.medium {
+  width: 50px;
+}
+
+.icon, .icon.large {
+  width: 100px;
+}
+
+.icon.huge {
+  width: 200px;
+}
+
+div.icons {
+  /*text-align: center;*/
+}
+
+h1, h2, h3 {
+  font-family: papyrus, fantasy;
+}
+
+strong {
+  font-family: papyrus, fantasy;
+}

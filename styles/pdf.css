@@ -1,0 +1,33 @@
+/* Styles here apply only to the pdf. */
+
+.card {
+  width: 100px;
+}
+
+.icon.small {
+  width: 12px;
+}
+
+.icon.medium {
+  width: 25px;
+}
+
+.icon, .icon.large {
+  width: 50px;
+}
+
+.icon.huge {
+  width: 100px;
+}
+
+div.icons {
+  /*text-align: center;*/
+}
+
+h1, h2, h3 {
+  font-family: papyrus, fantasy;
+}
+
+strong {
+  font-family: papyrus, fantasy;
+}

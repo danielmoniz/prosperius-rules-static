@@ -1,0 +1,28 @@
+
+#Remove
+Prosperity
+
+spring {rain}
+summer harvest {sunshine}
+autumn
+winter {snowflake}
+all_seasons {seasons}
+
+river
+mountain
+forest forests
+sapling saplings
+bridge bridges
+
+village_symbol
+
+educated
+trader
+architect
+doctor
+
+active
+passive
+active-unlimited
+
+upgrade upgrades
